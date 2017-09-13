@@ -1,0 +1,5 @@
+apt-get install npm
+apt-get install nodejs
+apt-get install python-pygments
+apt-get install zsh
+apt-get install git
